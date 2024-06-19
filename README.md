@@ -10,8 +10,8 @@ To run this project, please follow the steps below:
 1. Clone the repository:
 
 ```shell
-git clone "Repo_URL"
-cd chat-pdf-hugginface
+git clone "https://github.com/Vishnuujain/Pdf-Answering-AI"
+cd Pdf-Answering-AI
 ```
 
 2. Create and activate a conda virtual environment (optional but recommended):
