@@ -41,6 +41,8 @@ streamlit run app.py
 
 This will start the Streamlit server and open the application in your default web browser..  
 
+https://www.loom.com/share/eee0227d6e554582a8d09719d3a0c9d9?sid=2bc131e4-502d-496f-b8be-a12f37780284
+
 ### Git flow
 `.gitit.sh` can be used for easy pushing updates to remote repo.  
 
